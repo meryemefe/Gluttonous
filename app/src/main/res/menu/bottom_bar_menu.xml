@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_go_home"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home_fragment" />
+    <item
+        android:id="@+id/action_list_food"
+        android:icon="@drawable/list_food_icon"
+        android:title="@string/list_food_fragment" />
+    <item
+        android:id="@+id/action_see_basket"
+        android:icon="@drawable/see_basket_icon"
+        android:title="@string/see_basket_fragment" />
+</menu>

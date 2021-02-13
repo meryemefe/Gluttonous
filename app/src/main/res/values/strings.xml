@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gluttonous</string>
+    <string name="home_fragment">Home</string>
+    <string name="list_food_fragment">Food List</string>
+    <string name="see_basket_fragment">My Basket</string>
+    <string name="ask_delete_food_order">Are you sure to delete this order from the basket?</string>
+    <string name="info_added_food_order">is successfully added to the basket!</string>
+    <string name="info_removed_food_order">is removed from the basket successfully!</string>
+    <string name="approve">YES</string>
+    <string name="decline">NO</string>
+
+    <string name="app_slogan">Are you hungry?\n
+        Do you want not to go outside?\n
+        TRY GLUTTONOUS!\n
+        GLUTTONOUS provides you with a secure, sincere, fast service!\n
+        If you have any question, please feel free to contact us! We would like to hear your feedback!\n
+        hr@gluttonous.com
+    </string>
+    <string name="button_give_order_name">GIVE ORDER</string>
+    <string name="search_view_text">Search</string>
+</resources>

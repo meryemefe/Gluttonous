@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gluttonous</string>
+    <string name="home_fragment">Ana Sayfa</string>
+    <string name="list_food_fragment">Yemek Listesi</string>
+    <string name="see_basket_fragment">Sepetim</string>
+    <string name="ask_delete_food_order">Bu ürünü sepetinizden silmek istediğinize emin misiniz?</string>
+    <string name="info_added_food_order">sepete başarıyla eklendi!</string>
+    <string name="info_removed_food_order">sepetten başarıyla silindi!</string>
+    <string name="approve">EVET</string>
+    <string name="decline">HAYIR</string>
+
+    <string name="app_slogan">Karnın mı acıktı?\n
+        Dışarı gitmeyi istemiyor musun?\n
+        GLUTTONOUS BUNUN İÇİN VAR!\n
+        GLUTTONOUS sana güvenli, içten, hızlı yemek hizmeti sağlar!\n
+        Eğer herhangi bir sorun olursa lütfen bize istediğin zaman yaz! Görüşlerin bizim için altın değerinde!\n
+        ik@gluttonous.com
+    </string>
+    <string name="button_give_order_name">SİPARİŞ VER</string>
+    <string name="search_view_text">Ara</string>
+</resources>
